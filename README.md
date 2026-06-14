@@ -139,4 +139,3 @@ Upwork: https://www.upwork.com/freelancers/~01bd0c699cab012207
 
 Building systems that eliminate manual work, connect business tools, and scale operations through intelligent automation.
 
-## 📁 Repository Structure
